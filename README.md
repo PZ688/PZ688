@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Project Zoom
-
 <div align="center">
     <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status">
     <img src="https://img.shields.io/badge/Language-Multiple-blue?style=for-the-badge" alt="Language">
